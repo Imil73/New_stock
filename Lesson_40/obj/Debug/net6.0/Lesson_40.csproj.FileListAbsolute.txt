@@ -1,0 +1,15 @@
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/Lesson_40.csproj.AssemblyReference.cache
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/Lesson_40.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/Lesson_40.AssemblyInfoInputs.cache
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/Lesson_40.AssemblyInfo.cs
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/Lesson_40.csproj.CoreCompileInputs.cache
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/bin/Debug/net6.0/Lesson_40
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/bin/Debug/net6.0/Lesson_40.deps.json
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/bin/Debug/net6.0/Lesson_40.runtimeconfig.json
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/bin/Debug/net6.0/Lesson_40.dll
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/bin/Debug/net6.0/Lesson_40.pdb
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/Lesson_40.dll
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/refint/Lesson_40.dll
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/Lesson_40.pdb
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/Lesson_40.genruntimeconfig.cache
+/Users/milingazetdinov/Desktop/Example/For_repozit/Lesson_40/obj/Debug/net6.0/ref/Lesson_40.dll

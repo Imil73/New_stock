@@ -1,0 +1,15 @@
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/bin/Debug/net6.0/Free lesson_1
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/bin/Debug/net6.0/Free lesson_1.deps.json
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/bin/Debug/net6.0/Free lesson_1.runtimeconfig.json
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/bin/Debug/net6.0/Free lesson_1.dll
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/bin/Debug/net6.0/Free lesson_1.pdb
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/Free lesson_1.csproj.AssemblyReference.cache
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/Free lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/Free lesson_1.AssemblyInfoInputs.cache
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/Free lesson_1.AssemblyInfo.cs
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/Free lesson_1.csproj.CoreCompileInputs.cache
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/Free lesson_1.dll
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/refint/Free lesson_1.dll
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/Free lesson_1.pdb
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/Free lesson_1.genruntimeconfig.cache
+/Users/milingazetdinov/Desktop/Example/For_repozit/Free lesson_1/obj/Debug/net6.0/ref/Free lesson_1.dll

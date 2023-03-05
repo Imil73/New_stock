@@ -9,7 +9,7 @@ System.Console.Write($"Введите элемент массива под ин�
  array[i]= Convert.ToInt32(Console.ReadLine());
 }
 
-for (int i = 1; i < array.Length; i += 2)
+for (int i = 2; i < array.Length; i += 2)
   {
     sum += array[i];
   }
